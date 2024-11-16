@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://www.profitablecpmrate.com/kv06fucssp?key=95c2497d10e2f737018c9de282a581d2`
+					`http://sport24.kesug.com/`
 				}`,
 			},
 		};
